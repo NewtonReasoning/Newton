@@ -5,7 +5,7 @@
 
 $^1$ University of Washington, $^2$ NVIDIA
 
-[Project Page](https://newtonreasoning.github.io/) | [Arxiv]() | [HuggingFace API (Coming Soon)]()
+[Project Page](https://newtonreasoning.github.io/) | [Arxiv](https://arxiv.org/pdf/2310.07018.pdf) | [HuggingFace API (Coming Soon)]()
 
 <div style="margin:50px; text-align: justify;">
 <img style="width:100%;" src="imgs/teaser.gif">
