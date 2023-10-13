@@ -10,6 +10,19 @@ $^1$ University of Washington, $^2$ NVIDIA
 <div style="margin:50px; text-align: justify;">
 <img style="width:100%;" src="imgs/teaser.gif">
 
+If you find this codebase useful, consider citing:
+
+```bibtex
+@misc{wang2023newton,
+      title={NEWTON: Are Large Language Models Capable of Physical Reasoning?}, 
+      author={Yi Ru Wang and Jiafei Duan and Dieter Fox and Siddhartha Srinivasa},
+      year={2023},
+      eprint={2310.07018},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
+
 🌟 **NEWTON: Evaluating Large Language Models for Physics Reasoning** 🌟
 
 Are you curious about the physical reasoning abilities of Large Language Models (LLMs) like GPT-4 in different contexualized settings? Look no further! NEWTON is here to help.
